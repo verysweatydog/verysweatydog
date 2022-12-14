@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm x7v9</h1>
-<h3 align="center">comkper sciens</h3>
+<h3 align="center">nmeahtmatics amd compterr sciens</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
