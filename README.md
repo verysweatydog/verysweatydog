@@ -10,4 +10,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x7v9&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="x7v9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x7v9&theme=dark" alt="x7v9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x7v9&theme=dracula" alt="x7v9" /></p>
